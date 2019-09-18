@@ -1,0 +1,7 @@
+första ändringen
+ändrat i feature-branch, ok så här då
+<<<<<<< HEAD
+ändrat i en anotherbranch
+=======
+ändrar samma rad i master
+>>>>>>> master
