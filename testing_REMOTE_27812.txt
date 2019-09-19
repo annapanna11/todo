@@ -1,3 +1,0 @@
-första ändringen
-ändrat i feature-branch, ok så här då
-ändrar samma rad i master
